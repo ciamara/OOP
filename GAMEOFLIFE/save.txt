@@ -1,0 +1,13 @@
+20
+20
+5
+3Fox|33|18|3|5
+5Human|32|12|5|5|8
+5Sheep|28|11|4|5
+5Sheep|29|9|4|5
+6Turtle|23|20|2|5
+5Grass|34|22|0|4
+9Dandelion|30|19|0|4
+7Guarana|23|22|0|4
+16DeadlyNightshade|30|13|99|4
+16SosnowskyHogweed|30|4|10|4

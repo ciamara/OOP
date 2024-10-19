@@ -1,0 +1,9 @@
+15|15|10
+gameoflife.organisms.animals.Human|9|6|5|10|-5
+gameoflife.organisms.animals.Sheep|3|7|4|10
+gameoflife.organisms.animals.Sheep|6|3|4|10
+gameoflife.organisms.plants.Guarana|5|2|0|9
+gameoflife.organisms.plants.Grass|1|2|0|10
+gameoflife.organisms.plants.Guarana|5|1|0|10
+gameoflife.organisms.plants.SosnowskyHogweed|7|10|10|10
+gameoflife.organisms.plants.Dandelion|14|2|0|30
